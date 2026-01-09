@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Task Timer",
+  "description": "A minimalist, glassmorphic circular task timer with 3D flip mechanics. Set up to 7 sequential tasks and watch them complete with subtle animations.",
+  "requestFramePermissions": []
+}
